@@ -105,4 +105,4 @@ number of accounts to run [1]: 1
 ```
 
 ## Account Creation
- After a lot of testing I found that using (a temporary email site)[https://temp-mail.org/en/] Facebook will occasionally ask for just an email verification. Facebook will eventually ask for a phone verification so the script will make note of that and move on to the next account. Account information will need to be added manually.
+ After a lot of testing I found that using ([a temporary email site](https://temp-mail.org/en/)) Facebook will occasionally ask for just an email verification. Facebook will eventually ask for a phone verification so the script will make note of that and move on to the next account. Account information will need to be added manually.
